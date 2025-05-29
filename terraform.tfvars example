@@ -1,0 +1,16 @@
+# Copy this file to terraform.tfvars and fill in your values
+# DO NOT commit terraform.tfvars to version control
+
+aws_region = "us-east-1"
+
+# Prefect Cloud Configuration
+prefect_api_key     = "your-prefect-api-key-here"
+prefect_account_id  = "your-account-id-here"
+prefect_workspace_id = "your-workspace-id-here"
+prefect_api_url     = "https://api.prefect.cloud/api/accounts"
+
+# Work Pool Configuration
+work_pool_name = "ecs-work-pool"
+
+# Container Configuration
+prefect_image = "prefecthq/prefect:2-latest"
