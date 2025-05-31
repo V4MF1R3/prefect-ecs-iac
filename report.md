@@ -1,8 +1,8 @@
 # DevOps Assignment Report: Prefect Worker on Amazon ECS
 
-**Candidate**: [Your Name]  
+**Candidate**: Vaibhav Pant  
 **Position**: DevOps Intern  
-**Date**: [Current Date]
+**Date**: 31 May, 2025
 
 ## Tool Selection: Why Terraform?
 
@@ -260,8 +260,8 @@ Key achievements include:
 
 The experience reinforced the importance of Infrastructure as Code in modern DevOps practices and provided valuable hands-on experience with AWS services, container orchestration, and workflow management tools.
 
-**Project Repository**: [Provide your Git repository URL]  
-**Demo Video**: [Provide demo video link if created]
+**Project Repository**: [\https://github.com/V4MF1R3/prefect-ecs-iac\]](https://github.com/V4MF1R3/prefect-ecs-iac)  
+**Demo Video**: [\https://www.loom.com/share/b5dcc37dad64489aac0aaa6c5e66a896?sid=4c6dc5bb-7464-47fe-b802-b18347f503ef\]](https://www.loom.com/share/b5dcc37dad64489aac0aaa6c5e66a896?sid=4c6dc5bb-7464-47fe-b802-b18347f503ef)
 
 ---
 
